@@ -1,0 +1,993 @@
+"Powered by FreeWebshop.org 2.2.1"
+"Powered by FubarForum v1.5"
+"Powered by FubarForum v1.6"
+"Powered by FunkBoard"
+"Powered by GGCMS"
+"Powered by GTChat 0.95"+"User Login"+"Remember my login information"
+"Powered by Gallery v1.4.4"
+"Powered by Gallery v1.4.4?
+"Powered by GameSiteScript"
+"Powered by GeN4"
+"Powered by GetMyOwnArcade"
+"Powered by Glossword 1.8.11" OR "Powered by Glossword 1.8.6"
+"Powered by Gravity Board"
+"Powered by Gravy Media"
+"Powered by Grayscale Blog"
+"Powered by How2asp"
+"Powered by IMGallery"
+"Powered by INVOhost"
+"Powered by IceWarp Software" inurl:mail
+"Powered by Ikonboard 3.1.1"
+"Powered by Ikonboard 3.1.1?
+"Powered by Invision Power Board(U) v1.3 Final"
+"Powered by Invision Power File Manager" (inurl:login.php) | (intitle:"Browsing directory /" )
+"Powered by KaiBB 1.0.1"
+"Powered by Knowledge Base"
+"Powered by LDU"
+"Powered by Land Down Under 601"
+"Powered by Land Down Under 601?
+"Powered by Lanius CMS"
+"Powered by Leap"
+"Powered by LifeType" "RSS 0.90" "RSS 1.0" "RSS 2.0" "Valid XHTML 1.0 Strict and CSS"
+"Powered by LightBlog" - Powered by LightBlog
+"Powered by LightNEasy"
+"Powered by Link Department"
+"Powered by Locazolist Copyright © 2006"
+"Powered by LoudBlog"
+"Powered by Loudblog"
+"Powered by MD-Pro" | "made with MD-Pro"
+"Powered by MDForum"
+"Powered by Maian Recipe v1.0"
+"Powered by Md-Pro"
+"Powered by Megabook *" inurl:guestbook.cgi
+"Powered by Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff
+"Powered by MercuryBoard [v1"
+"Powered by MercuryBoard"
+"Powered by MetInfo 2.0"
+"Powered by MetInfo 3.0"
+"Powered by Midmart Messageboard" "Administrator Login"
+"Powered by Minerva"
+"Powered by MobPartner" inurl:"chat.php"
+"Powered by Monster Top List" MTL numrange:200-
+"Powered by My Blog" intext:"FuzzyMonkey.org"
+"Powered by My PHP Indexer 1.0"
+"Powered by MySpace Content Zone"
+"Powered by NovaBoard v1.0.0"
+"Powered by NovaBoard v1.1.2"
+"Powered by Nukedit"
+"Powered by OnePound"
+"Powered by Online Grades"
+"Powered by Open Source Chat Platform Rocket.Chat."
+"Powered by Orca Interactive Forum Script"
+"Powered by Ovidentia"
+"Powered by PG Online Training Solution - learning management system"
+"Powered by PG Real Estate Solution - real estate web site design"
+"Powered by PG Roomate Finder Solution - roommate estate web site design"
+"Powered by PHP Advanced Transfer Manager v1.30"
+"Powered by PHP Director 0.2"
+"Powered by PHP Director"
+"Powered by PHP Live! v3.3"
+"Powered by PHP Photo Album"
+"Powered by PHP Shop from DeltaScripts"
+"Powered by PHP iCalendar"
+"Powered by PHP-Fusion v6.00.110" | "Powered by PHP-Fusion v6.00.2.." | "Powered by PHP-Fusion v6.00.3.." -v6.00.400 -johnny.ihackstuff
+"Powered by PHP-Update" -site:www.php-update.co.uk
+"Powered by PHPBack"
+"Powered by PHPBasket"
+"Powered by PHPFM" filetype:php -username
+"Powered by PHPizabi v0.848b C1 HFP1"
+"Powered by PMOS Help Desk"
+"Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+"Powered by ParsBlogger"
+"Powered by Philboard" inurl:"philboard_forum.asp"
+"Powered by Podcast Generator"
+"Powered by Populum"
+"Powered by PowerPortal v1.3"
+"Powered by PowerPortal v1.3?
+"Powered by ProjectCMS"
+"Powered by PsNews"
+"Powered by PunBB"
+"Powered by Quick.Cart"
+"Powered by Quick.Cms"
+"Powered by RGameScript"
+"Powered by RW::Download v2.0.3 lite"
+"Powered by Real Estate Portal"
+"Powered by RealAdmin and Red Cow Technologies, Inc."
+"Powered by Reciprocal Links Manager"
+"Powered by RedCat" inurl:index.php?contentId=
+"Powered by Rock Band CMS 0.10"	
+"Powered by SLAED CMS"
+"Powered by SMF"
+"Powered by SOFTMAN"
+"Powered by SOOP Portal Raven 1.0b"
+"Powered by SazCart"
+"Powered by Scallywag"
+"Powered by Scratcher"
+"Powered by Scripteen Free Image Hosting Script V 2.3"
+"Powered by Scripteen Free Image Hosting Script V1.2"
+"Powered by SePortal 2.5"
+"Powered by Seditio"
+"Powered by Shadowed Portal"
+"Powered by Shop-Script FREE"
+"Powered by Shout!"
+"Powered by SilverNews"
+"Powered by Simple PHP Text newsletter"
+"Powered by Simplog"
+"Powered by SiteEngine"
+"Powered by SiteX 0.7 Beta"
+"Powered by Smoothflash"
+"Powered by SocketMail Lite version 2.2.8. Copyright Â© 2002-2006"
+"Powered by SoftbizScripts" "ALL JOBS"
+"Powered by SoftbizScripts" "OUR SPONSORS"
+"Powered by SoftbizScripts" inurl:"searchresult.php?sbcat_id="
+"Powered by SoftbizScripts" inurl:store_info.php
+"Powered by TS Special Edition"
+"Powered by TinyPHPForum v3.61"
+"Powered by Trac 1.0.2"
+"Powered by UCStats version 1.1"
+"Powered by UNAK-CMS"
+"Powered by UNO.com.my"
+"Powered by UPB"
+"Powered by UPB" (b 1.0)|(1.0 final)|(Public Beta 1.0b)
+"Powered by UebiMiau" -site:sourceforge.net
+"Powered by VS PANEL 7.5.5"
+"Powered by VS PANEL"
+"Powered by ViewVC 1.0.3"
+"Powered by Vsns Lemon" intitle:"Vsns Lemon"
+"Powered by WSN Guest"
+"Powered by WebStudio eCatalogue"
+"Powered by WebStudio eHotel"
+"Powered by WebText"
+"Powered by Woltlab Burning Board" -"2.3.3" -"v2.3.3" -"v2.3.2" -"2.3.2"
+"Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq
+"Powered by WowBB" -site:wowbb.com
+"Powered by XHP CMS" -ihackstuff -exploit -xhp.targetit.ro
+"Powered by XMB"
+"Powered by XOOPS 2.2.3 Final"
+"Powered by Xaraya" "Copyright 2005"
+"Powered by Xcomic"
+"Powered by Xplode CMS"
+"Powered by YDC"
+"Powered by YaPig V0.92b"
+"Powered by YourTube v1.0"
+"Powered by ZeeMatri"
+"Powered by Zimplit CMS"
+"Powered by Zomplog"
+"Powered by Zorum 3.5"
+"Powered by [ iSupport 1.8 ]"
+"Powered by and copyright class-1"  0.24.4
+"Powered by and copyright class-1" 0.24.4
+"Powered by autolinks pro 2.1" inurl:register.php
+"Powered by bSpeak 1.10"
+"Powered by beamospetition 1.0.12"
+"Powered by bp blog 6.0"
+"Powered by cifshanghai.com"
+"Powered by cityadmin and Red Cow Technologies, Inc."
+"Powered by cpCommerce"
+"Powered by eXV2 Vers"
+"Powered by ezContents Version 1.4.5"
+"Powered by i-pos Storefront"
+"Powered by iNetScripts"
+"Powered by iScripts SocialWare"
+"Powered by ispCP Omega"
+"Powered by jSite 1.0 OE"
+"Powered by kryCMS"
+"Powered by mlffat"
+"Powered by mnoGoSearch - free web search engine software"
+"Powered by mnoGoSearch – free web search engine software"
+"Powered by mojoPortal"
+"Powered by myBusinessAdmin and Red Cow Technologies, Inc."
+"Powered by myUPB"
+"Powered by nzFotolog v0.4.1 Â© 2005-2006 Ricardo Amaral"
+"Powered by ocPortal" -demo -ocportal.com
+"Powered by osCMax v2.0" , "Copyright @" "RahnemaCo.com"
+"Powered by photokorn"
+"Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
+"Powered by phpCC Beta 4.2"
+"Powered by phpMySport"
+"Powered by phpOpenTracker" Statistics
+"Powered by sNews " inurl:index.php?id=
+"Powered by sNews CMS"
+"Powered by sNews"
+"Powered by samart-cms"
+"Powered by sendcard - an advanced PHP e-card program"
+"Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+"Powered by vBulletin Version 5.5.4"
+"Powered by vShare"
+"Powered by visinia"
+"Powered by vlBook 1.21"
+"Powered by web directory script"
+"Powered by webSPELL"
+"Powered by words tag script"
+"Powered by wpQuiz"
+"Powered by wpQuiz" inurl:index.php
+"Powered by www.aspportal.net"
+"Powered by xchangeboard"
+"Powered by xeCMS"
+"Powered by yacs"
+"Powered by yappa-ng 2.3.1" AND "Powered by yappa-ng 2.3.1"
+"Powered by yappa-ng"
+"Powered by: Arab Portal v2"
+"Powered by: Censura"
+"Powered by: Elite Gaming Ladders v3.2"
+"Powered by: IRIran.net"
+"Powered by: Land Down Under 800" |  "Powered by: Land Down Under 801" - www.neocrome.net
+"Powered by: Land Down Under 800" | "Powered by: Land Down Under 801" - www.neocrome.net
+"Powered by: MFH v1"
+"Powered by: MyPHP Forum"
+"Powered by: PHP Link Directory"
+"Powered by: PhotoPost PHP 4.6" or "Powered by: PhotoPost PHP 4.5"
+"Powered by: PhotoPost PHP 4.6.5"
+"Powered by: PostGuestbook 0.6.1"
+"Powered by: PreProjects"
+"Powered by: Southburn"
+"Powered by: Yes Solutions"
+"Powered by: eSmile"
+"Powered by: vBulletin * 3.0.1" inurl:newreply.php
+"Powered by: vBulletin * 3.0.1?  inurl:newreply.php
+"Powered by: vBulletin Version 1.1.5"
+"Powered by: vBulletin Version 1.1.5?
+"Powered byPlanet eStream"
+"Powie's PSCRIPT MatchMaker 4.05"
+"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
+"Protocol=unreal" ext:ini -git
+"Proudly created with Wix.com"
+"QuickDiag" "by g3n-h@ckm@n" ext:txt
+"RDServer Product information" | inurl:"/rdagent.jsp"
+"REALTOR 747 - Version 4.11"
+"RICOH Network Printer D model-Restore Factory"
+"RS MAXSOFT"
+"Red Hat Secure/2.0"
+"Red Hat Secure/3.0 server at"
+"Remote Supervisor Adapter II" inurl:userlogin_logo.ssi
+"Request Details" "Control Tree" "Server Variables"
+"Review Script" "Phil Taylor"
+"Runcms Copyright" "2002 - 2007" +"page created"
+"Running in Child mode"
+"S-CMS by matteoiamma"
+"SECRET//NOFORN" ext:pdf
+"SERVER_ADDR" "SERVER_PORT" "SERVER_NAME" ext:log
+"SOOP Portal 2.0"
+"SQL Server Driver][SQL Server]Line 1: Incorrect syntax near"
+"SQuery 4.5" |"SQuery 4.0" |"SQuery 3.9" | inurl:"modules.php?name=SQuery"
+"START securepay" ext:log
+"Scan result of Farbar Recovery Scan Tool" ext:txt
+"Scanned by Camscanner" filetype:pdf
+"Scientific Image DataBase"
+"Script réalisé par BinGo PHP"
+"Search Adult Directory:"
+"Search Affiliate Programs:"
+"Search Projects" intitle:"The ultimate project website"
+"Search | Invite | Mail | Blog | Forum"
+"Section" inurl:"xorg.conf" ext:conf -wiki
+"Select a database to view" intitle:"filemaker pro"
+"Send amazing greetings to your friends and relative!"
+"Shadow Security Scanner performed a vulnerability assessment"
+"ShopMaker v1.0"
+"Signkorn Guestbook 1.3"
+"SimpleBlog 2.3 by 8pixel.net"
+"Sinapis by scripter.ch"
+"Site designed and built Powered by GlobalWebTek."
+"Site designed and built by Powder Blue." inurl:index.php?id_page=
+"Site designed and built by ProWeb Associates."
+"Site powered By Limbo CMS"
+"Site powered by GuppY"
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"Site produced by GeneralProducts.co.uk"
+"SiteBar Bookmark Manager" inurl:index.php?w=
+"Sitedesign by: Dieleman www.dieleman.nl - Copyright © 2010"
+"Siteman Version 1.1.9"
+"SmodBIP" & "Aktualno.ci"
+"SmodCMS" & "S.ownik"
+"SnapGear Management Console" "Welcome to the SnapGear Unit!" -pdf
+"SnortSnarf alert page"
+"Software Categories" "Featured Resources" "Search"
+"Software PBLang 4.66z" AND "Software PBLang 4.60" OR "Software PBLang"
+"Software PBLang" 4.65 filetype:php
+"Sorting Logs:" "Please enter your password" "Powered By" -urlscan -alamy
+"Splatt Forum©"
+"SquirrelMail version 1.4.4" inurl:src ext:php
+"SquirrelMail version 1.4.4? inurl:src ext:php
+"SquirrelMail version" "By the SquirrelMail Development Team"
+"SquirrelMail version" "By the SquirrelMail development Team"
+"Start of NVIDIA bug report log file" ext:log
+"Starting SiteZAP 6.0"
+"Starting SiteZAP 6.0?
+"Starting bid" "Powered by SoftbizScripts"
+"Stats generated by pisg v0.73"
+"Status message received from" intitle:big brother
+"Stealer by W33DY" ext:txt
+"Summary View of Sensors" | "sensorProbe8 v *" | "
+"Supplied argument is not a valid MySQL result resource"
+"Supplied argument is not a valid PostgreSQL result"
+"SurgeMAIL" inurl:/cgi/user.cgi ext:cgi
+"Switch to table format" inurl:table|plain
+"Syntax error in query expression " -the
+"SysCP - login"
+"SysCP – login"
+"TR Newsportal" brought by TRanx.
+"TROforum 0.1"
+"TX_start" "card_name" ext:log
+"Tanyakan Pada Rumput Yang Bergoyang"
+"Thank You for using WPCeasy"
+"Thank you for your order" +receipt
+"Thank you for your purchase" +download
+"The Merchant Project"
+"The following report contains confidential information" vulnerability -search
+"The s?ri?t whose uid is " "is not allowed to access"
+"The script whose uid is " "is not allowed to access"
+"The statistics were last upd?t?d" "Daily"-microsoft.com
+"The statistics were last updated" "Daily"-microsoft.com
+"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+"These forums are running on" "miniBB"
+"These statistics were produced by getstats"
+"This WebUI administration tool requires scripting support" intitle:'Login' intext:'Admin Name:' -score
+"This file was generated by Nessus"
+"This forum powered by Phorum."
+"This is a Free & Open Source mailing list manager"
+"This is a Shareaza Node"
+"This is a restricted Access Server" "Javas?ri?t Not Enabled!"|"Messenger Express" -edu -ac
+"This is a restricted Access Server" "Javascript Not Enabled!"|"Messenger Express" -edu -ac
+"This page has been automatically generated by Plesk Server Administrator"
+"This page is for configuring Samsung Network Printer" | printerDetails.htm
+"This report lists" "identified by Internet Scanner"
+"This report was generated by WebLog"
+"This script created by www.script.canavari.com"
+"This script was created by Php-ZeroNet" "Script . Php-ZeroNet"
+"This section is for Administrators only. If you are an administrator then please"
+"This server is operated by OpenX."
+"This service is powered by a copy of ZendTo"
+"This site is powered by CMS Made Simple version 1."
+"This site is powered by CMS Made Simple version 1.2.2"
+"This site is powered by CMS Made Simple"
+"This site is powered by e107"
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+"This summary was generated by wwwstat"
+"This web site was made with MD-Pro"
+"This web site was made with PostNuke"
+"This website engine code is copyright" "2005 by Clever Copy" -inurl:demo
+"This website is powered by Mobius"
+"This website is powered by Trio"
+"This website powered by PHPX" -demo
+"This website was created with phpWebThings 1.4"
+"This website was created with phpWebThings"
+"TinyBB 2011 all rights reserved"
+"To Parent Directory" AND "dir>" AND "web.config"
+"To view the Web interface of the SpeedTouch, Java
+"Torbstoff News 4"
+"Traffic Analysis for" "RMON Port * on unit *"
+"Traffic Analysis for" "RMON Port on unit "
+"Transloader by Somik.org" OR "Transloader by" OR "Transloder"
+"Unable to jump to row" "on MySQL result index" "on line"
+"Unclosed quotation mark before the character string"
+"Upload unique IP List:" AND "The Ultimate Fake Hit Generator - BOOST YOUR ALEXA RANK"
+"Upload" inurl:"https://webfiles"
+"Uploader by CeleronDude."
+"Use these fields to set or change the Administrator Password. When set, the Administrator Password is required before you can access and change configuration parameters. To disable the Administrator Password, leave the entries blank."
+"VB Viewer" inurl:/viewer/live/ja/live.html
+"VHCS Pro   ver" -demo
+"VHCS Pro ver" -demo
+"VNC Desktop" inurl:5800
+"Version Info" "Boot Version" "Internet Settings"
+"Vivid Ads Shopping Cart"
+"WEB Browser Password Recovery" ext:txt
+"WHMCS Auto Xploiter"
+"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum
+"Warning: Cannot modify header information - headers already sent"
+"Warning: Cannot modify header information – headers already sent"
+"Warning: Division by zero in" "on line" -forum
+"Warning: Installation directory exists at" "Powered by Zen Cart" -demo
+"Warning: Supplied argument is not a valid File-Handle resource in"
+"Warning: mysql_connect(): Access denied for user: '*@*" "on line"  -help -forum
+"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
+"Warning: mysql_connect(): Access denied for user: '@" "on line" -help -forum
+"Warning: mysql_connect(): Access denied for user: ‘*@*" "on line" -help -forum
+"Warning: mysql_query()" "invalid query"
+"Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+"Warning:" "Cannot execute a blank command in"
+"Warning:" "SAFE MODE Restriction in effect." "The s?ri?t whose uid is" "is not allowed to access owned by uid 0 in" "on line"
+"Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line"
+"Warning:" "failed to open stream: HTTP request failed" "on line"
+"Web Analytics powered by Open Web Analytics - v: 1.6.2"
+"Web Application Assessment Report" ext:pdf
+"Web File Browser" "Use regular expression"
+"Web Group Communication Center beta 0.5.6" OR "Web Group Communication Center beta 0.5.5"
+"Web Group Communication Center"
+"Web Site Design by Red Cat Studios"
+"Web page sent by InterMapper"
+"Web site engine's code is copyright Â© 2001-2007 ATutorÂ®"
+"Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
+"WebCalendar v1.0.4"
+"WebExplorer Server - Login" "Welcome to WebExplorer Server"
+"WebExplorer Server – Login" "Welcome to WebExplorer Server"
+"WebSTAR Mail - Please Log In"
+"WebSTAR Mail – Please Log In"
+"Webdesign Cosmos Solutions"
+"Website Design by Rocktime"
+"Website Powered By Creative SplashWorks - SplashSite"
+"Website by Spokane Web Communications"
+"Website by WebSolutions.ca"
+"Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media"
+"Webthru User Login"
+"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+"Welcome to Exponent CMS" | "my new exponent site"
+"Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
+"Welcome to Intranet"
+"Welcome to PHP-Nuke" congratulations
+"Welcome to Sitecore" + "License Holder"
+"Welcome to phpMyAdmin" " Create new database"
+"Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
+"Welcome to phpMyAdmin" AND " Create new database"
+"Welcome to the CyberGuard unit!"
+"Welcome to the Prestige Web-Based Configurator"
+"Welcome to the directory listing of" "NetworkActiv-Web-Server"
+"Welcome to the versatileBulletinBoard" | "Powered by versatileBulletinBoard"
+"X-CART. Powerful PHP shopping cart software"
+"YaBB SE Dev Team"
+"Yogurt build"
+"You have an error in your SQL syntax near"
+"You have not provided a survey identification num
+"You have not provided a survey identification number"
+"You have requested access to a restricted area of our website. Please authenticate yourself to continue."
+"You have requested to access the management functions"  -.edu
+"You have requested to access the management functions" -.edu
+"You have selected the following files for upload (0 Files)."
+"You're successfully running JSON Server"
+"Your password is * Remember this for later use"
+"Your password is Remember this for later use"
+"[ phpinfo ] [ php.ini ] [ cpu ] [ mem ] [ users ] [ tmp ] [ delete ]"
+"[FFFTP]" ext:ini
+"[HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSessions]" ext:reg
+"[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg
+"[LocalizedFileNames]" inurl:"desktop.ini" ext:ini -git -wiki
+"[PHPSESSID]" ext:log
+"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread
+"[Tera Term]" inurl:"teraterm.ini" ext:ini -git
+"[boot loader]" "WINNT" ext:ini
+"[dirs]" inurl:"mirc.ini" -git
+"[function.getimagesize]: failed to open stream: No such file or directory in"
+"[main]" "enc_GroupPwd=" ext:txt
+"access denied for user" "using password"
+"accounts.xlsx" ext:xlsx
+"adding new user" inurl:addnewuser -"there are no domains"
+"admin account info" filetype:log
+"advanced_search_results.php?gender="
+"air confirmation" "passenger(s)"
+"allow_call_time_pass_reference" "PATH_INFO"
+"and Powered By :Sansak"
+"ansible.log" | "playbook.yaml" | ".ansible.cfg" | "playbook.yml" | host.ini intitle:"index of"
+"apricot - admin" 00h
+"apricot – admin" 00h
+"authentication failure; logname=" ext:log
+"automatic teller" "operator manual" "password" filetype:pdf
+"battlefield" "email" site:pastebin.com
+"bp blog admin" intitle:login | intitle:admin -site:johnny.ihackstuff.com
+"by Pivot - 1.40.5" +'Dreadwind' -pivotlog.net
+"by Reimar Hoven. All Rights Reserved. Disclaimer" | inurl:"log/logdb.dta"
+"by eXtreme Crew"
+"by in-link" or "Powered by In-Link 2."
+"cacheserverreport for" "This analysis was produced by calamaris"
+"cms SunLight 5.2"
+"com_joom12pic"
+"com_joomlaflashfun"
+"com_lmo"
+"configure account user encrypted" ext:cfg
+"contrasena" filetype:sql -github.com
+"copyright 2006 Broadband Mechanics"
+"create account" admin ext:cfg
+"create the Super User" "now by clicking here"
+"d-i passwd/root-password-crypted password" ext:cfg
+"database_password" filetype:yml "config/parameters.yml
+"database_password" filetype:yml "config/parameters.yml"
+"delete entries" inurl:admin/delete.asp
+"delivered by mailman" inurl:admin/mailman | intitle:"Mailman Administrator Authentication"
+"department" | "agency" | "government" "intitle:"login form" -youtube -template
+"description" & "size" intitle:"index of" "owncloud"
+"detected an internal error [IBM][CLI Driver][DB2/6000]"
+"dirLIST - PHP Directory Lister" "Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx" "index of" ext:php
+"dispatch=debugger."
+"display printer status" intitle:"Home"
+"download this free gallery at matteobinda.com"
+"driven by: ASP Message Board"
+"duclassmate" -site:duware.com
+"dudownload" -site:duware.com
+"e107.org 2002/2003" inurl:forum_post.php?nt
+"e107.org 2002/2003? inurl:forum_post.php?nt
+"eCommerce Engine © 2006 xt:Commerce Shopsoftware"
+"enable password" ext:cfg -git -cisco.com
+"enable secret" ext:cfg -git -cisco.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"error found handling the request" cocoon filetype:xml
+"error_log" inurl:/wp-content
+"fetchmailrc" intitle:"index of" -linux
+"ftp://" "www.eastgame.net"
+"ftp://” "www.eastgame.net"
+"ganglia mobile.php"
+"generated by Exhibit Engine 1.5 RC 4"
+"generated by Munin" inurl:index -intext:index localhost
+"generated by wwwstat"
+"google confidential" filetype:pdf
+"havij report" "Target" ext:html
+"hlstats.php?mode=dailyawardinfo&award=" hlstatsx
+"html allowed" guestbook
+"http://*:*@www" bob:bob
+"http://*:*@www" domainname
+"http://*:*@www” domainname
+"http://:@www" domainname
+"httpd+ssl/kttd" * server at intitle:index.of
+"iCONECT 4.1 :: Login"
+"iSpy Keylogger" "Passwords Log" ext:txt
+"id=" & intext:"Warning: array_merge()
+"id=" & intext:"Warning: filesize()
+"id=" & intext:"Warning: getimagesize()
+"id=" & intext:"Warning: ilesize()
+"id=" & intext:"Warning: mysql_fetch_array()
+"id=" & intext:"Warning: mysql_num_rows()
+"id=" & intext:"Warning: mysql_query()
+"id=" & intext:"Warning: preg_match()
+"id=" & intext:"Warning: session_start()
+"images in this album on"
+"inc_webblogmanager.asp"
+"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+"index of /private" -site:net -site:com -site:org
+"index of /private" site:mil
+"index of /ups.com/WebTracking"
+"index of cgi-bin"
+"index of" "database.sql.zip"
+"index of" "database_log"
+"index of" / lck
+"index of" / picasa.ini
+"index of" /wp-content/uploads/shell.php
+"index of" bigdump.php
+"index of" intext:fckeditor inurl:fckeditor
+"index of" inurl:recycler
+"index of" inurl:root intitle:symlink
+"index of" inurl:sym
+"index of/" "ws_ftp.ini" "parent directory"
+"index.php?id_menu=" CMScontrol
+"index.php?option=com_chronoconnectivity" / "com_chronoconnectivity
+"index.php?option=com_chronocontact" / "com_chronocontact"
+"index.php?option=com_expose"
+"index.php?option=com_mdigg"
+"index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
+"index.php?option=com_qcontacts"
+"index.php?option=com_resman"
+"index.php?option=com_rwcards"
+"index.php?option=com_sef" / "com_sef"
+"index.php?option=com_seyret" / "com_seyret"
+"index.php?sbjoke_id="
+"index.php?section=post_upload"
+"information_schema" filetype:sql
+"inspanel" intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+"intext:Warning: passthru()" "inurl:view=help"
+"intitle:3300 Integrated Communications Platform" inurl:main.htm
+"intitle:Cisco Systems, Inc. VPN 3000 Concentrator"
+"intitle:Index.Of /" stats merchant cgi-* etc
+"intitle:index of"
+"intitle:t3al shmeh"
+"inurl:"Umbraco/#/login" site:*edu"
+"inurl:/admin/" "ImageVue"
+"inurl:/data/nanoadmin.php"
+"inurl:/site/articles.asp?idcategory="
+"inurl:admin.asp"
+"inurl:admin/login.asp"
+"inurl:admin_login.asp"
+"inurl:adminhome.asp"
+"inurl:administrator_login.asp"
+"inurl:administratorlogin.asp"
+"inurl:adminlogin.asp"
+"inurl:cultbooking.php"
+"inurl:login/admin.asp"
+"inurl:login/administrator.asp"
+"is a product of Lussumo"
+"is proudly powered by WordPress"
+"jos_users" intitle:"Index of"
+"key" OR key.jar intitle:"index of" webstart
+"keyed alike" site:gov filetype:pdf
+"kims Q - Administrator Login Mode"
+"liveice configuration file" ext:cfg
+"liveice configuration file" ext:cfg -site:sourceforge.net
+"login prompt" inurl:GM.cgi
+"login" "adp login" -adplogin.us -adplogin.org -adplogin.net
+"login" "secure" "intitle:"online banking" -youtube -template -stackoverflow -stackexchange
+"login" intitle:"scada login"
+"login" inurl:"account/auth" -github -gitlab -stackoverflow
+"login":
+"login: *" "password= *" filetype:xls
+"lv_poweredBy"
+"m.zippyshare.com/"
+"made visual by sightFACTORY"
+"mailing list memberships reminder"
+"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+"mirco blogging"
+"mumbo jumbo media" + inurl:"index.php"
+"mySQL error with query"
+"mysql dump" filetype:sql
+"mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+"mysqli_connect" ext:inc
+"not for distribution" confidential
+"not for public release" -.edu -.gov -.mil
+"nukeai beta3"
+"online learning powered by bksb"
+"pForum 1.29a" OR ""Powie's PSCRIPT Forum 1.26"
+"pForum 1.30"
+"pages.php?page_ID=" "K9 Kreativity"
+"parent directory " /appz/ -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+"parent directory " DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+"parent directory " Gamez -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+"parent directory " MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+"parent directory " Name of Singer or album -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+"parent directory "Xvid -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+"parent directory" +proftpdpasswd
+"parent directory" proftpdpasswd intitle:"index of" -google
+"pass" "usuario" filetype:sql
+"passport" filetype:xls site:"*.edu.*" | site:"*.gov.*" | site:"*.com.*" | site:"*.org.*" | site:"*.net.*" | site:"*.mil.*"
+"password"  + ext:conf "Modem Type = USB Modem"
+"password.xlsx" ext:xlsx
+"pcANYWHERE EXPRESS Java Client"
+"phone  * * *" "address *" "e-mail" intitle:"curriculum vitae"
+"phone " "address " "e-mail" intitle:"curriculum vitae"
+"phone * * *" "address *" "e-mail" intitle:"curriculum vitae"
+"php class JConfig" AND inurl:configuration AND ext:"bak | old | pdf | php | txt"
+"php-addressbook"
+"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+"phpMyAdmin MySQL-Dump" filetype:txt
+"phpMyAdmin" "running on" inurl:"main.php"
+"phpQuestionnaire v3"
+"phpinfo.php" -manual
+"please log in"
+"please sign in" "sign in" "gophish" +"login"
+"please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+"plugins/wp-db-backup/wp-db-backup.php"
+"portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP" -site:safari-msi.com
+"powered by 4images"
+"powered by AMCMS3"
+"powered by Albinator"
+"powered by AllMyGuests"
+"powered by Blog System"
+"powered by Blue Dove Web Design"
+"powered by CMS Made Simple version 1.1.2"
+"powered by CubeCart 2.0"
+"powered by CubeCart" inurl:"index.php?_a="
+"powered by CuteNews" "2003..2005 CutePHP"
+"powered by DBHcms"
+"powered by DreamAccount 3.1"
+"powered by EQdkp"
+"powered by ExtCalendar v2"
+"powered by FlatPress"
+"powered by Gallery v" "[slideshow]"|"images" inurl:gallery
+"powered by Gallery v"|"images" inurl:gallery
+"powered by Gradman"
+"powered by GuppY v4"|"Site cr........ avec GuppY v4"
+"powered by GuppY v4"|"Site crÃƒÆ’Ã‚Â©ÃƒÆ’Ã‚Â© avec GuppY v4"
+"powered by ILIAS"
+"powered by ITWorking"
+"powered by JAMM"
+"powered by LionWiki "
+"powered by MODx"
+"powered by Nabernet"
+"powered by PCPIN.com"
+"powered by Pagetool"
+"powered by PassWiki"
+"powered by Photo-Graffix Flash Image Gallery"
+"powered by PhpBB 2.0.15" -site:phpbb.com
+"powered by Quick.Cart"
+"powered by Sitellite"
+"powered by Sniggabo CMS" inurl:article.php?id
+"powered by SnoGrafx"
+"powered by TSEP - The Search Engine Project"
+"powered by ThWboard"
+"powered by WonderEdit Pro"
+"powered by XHP CMS"
+"powered by YellDL"
+"powered by active php bookmarks" | inurl:bookmarks/view_group.php?id=
+"powered by aflog"
+"powered by andromeda version" (filetype:php | filetype:asp)
+"powered by antiboard"
+"powered by bitweaver"
+"powered by blur6ex"
+"powered by claroline" -demo
+"powered by clipshare"
+"powered by dataface" "powered by xataface"
+"powered by devalcms v1.4.a"
+"powered by discuz!
+"powered by ducalendar" -site:duware.com
+"powered by duclassmate" -site:duware.com
+"powered by dudownload" -site:duware.com
+"powered by easytrade"
+"powered by ezUserManager"
+"powered by fuzzylime"
+"powered by gcards"
+"powered by gelato cms"
+"powered by guestbook script"
+"powered by guestbook script" -ihackstuff -exploit
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"powered by jmdcms.com"
+"powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+"powered by jshop"
+"powered by kure"
+"powered by mailgust"
+"powered by mcGalleryPRO"
+"powered by minibb forum software"
+"powered by minibb" -site:www.minibb.net -intext:1.7f
+"powered by my little forum"
+"powered by openbsd" +"powered by apache"
+"powered by php advanced transfer manager"
+"powered by php icalendar" -ihackstuff -exploit
+"powered by php photo album" -demo2 -pitanje"
+"powered by php photo album" | inurl:"main.php?cmd=album" -demo2 -pitanje
+"powered by php update"
+"powered by phpAdBoard"
+"powered by phpEmployment"
+"powered by phpGreetCards"
+"powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk
+"powered by phpmydirectory" OR intext:"2001-2006 phpMyDirectory.com"
+"powered by pppblog v 0.3.(.)"
+"powered by real-estate-website"
+"powered by runcms" -runcms.com -runcms.org
+"powered by sX-Shop"
+"powered by sazcart"
+"powered by sblog" +"version 0.7"
+"powered by seditio" OR "powered by ldu"
+"powered by shutter v0.1.1"
+"powered by simpleview CMS"
+"powered by sphider" -exploit -ihackstuff -www.cs.ioc.ee
+"powered by sunshop"
+"powered by tikiwiki"
+"powered by twg"
+"powered by ubbthreads"
+"powered by vsp stats processor"
+"powered by webClassifieds"
+"powered by webcamXP" "Pro|Broadcast"
+"powered by xmb"
+"powered by yourtube"
+"powered by zipbox media"
+"powered by zomplog"
+"powered by" "shoutstats" hourly daily
+"powered by: WebLeague"
+"powered by: elkagroup"
+"powered by: profitCode"
+"powered | performed by Beyond Security's Automated Scanning" -kazaa -example
+"powergap" or "s04.php" or s01.php or s02.php
+"produced by getstats"
+"propulsÃ© par JBlog"
+"propulsé par DotClear" "fil atom" "fil rss" +commentaires
+"qjForum"
+"r57shell 1.4"
+"r57shell"
+"random's system information tool" ext:txt
+"realizacja eCreo.eu"
+"resources.db.params.password" ext:ini -git
+"robots.txt" "Disallow:" filetype:txt
+"robots.txt" + "Disallow:" filetype:txt
+"running: Nucleus v3.1" -.nucleuscms.org -demo
+"running: Nucleus v3.1? -.nucleuscms.org -demo
+"safe_mode: * PHP version: * cURL: * MySQL: * MSSQL: * PostgreSQL: * Oracle: *"
+"sasl_passwd" | smtpd.conf intitle:"index of"
+"screen mode id:" ext:rdp
+"script by RECIPE SCRIPT"
+"seeing this instead" intitle:"test page for apache"
+"service" | "military" | "federal" "intitle:"login form" -youtube -template -stackoverflow
+"set up the administrator user" inurl:pivot
+"sets mode: +k"
+"sets mode: +p"
+"sets mode: +s"
+"signons.sqlite" intitle:"index of"
+"site by Designscope"
+"site info for" "Enter Admin Password"
+"site powered by intuitive-websites.com"
+"site:ghostbin.com " / " "
+"site:hastebin.com " / " "
+"sitio web diseñado por www.toronja.com.pe"
+"software 2004-2005 by randshop"
+"sql" "parent" intitle:index.of -injection
+"supplied argument is not a valid MySQL result resource"
+"syd_apply.cfm"
+"this proxy is working fine!" "enter " "URL" visit
+"this proxy is working fine!" "enter *" "URL***" * visit
+"this site is using the webspell script (version: 4.01.02)"
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"ttawlogin.cgi/?action="
+"txx cms"
+"username" "password" intitle:"login here"
+"username.xlsx" ext:xlsx
+"var miner = new CoinHive" intext:document.domain
+"var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous
+"viostor system"
+"visiteurs v2.0"
+"vpnssl"
+"webkactus"
+"whoops! there was an error." "db_password"
+"wow roster version 1.*"
+"wow roster version 1.5.*"
+"www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"
+"xampp/phpinfo
+"you can now password" | "this is a special page only seen by you. your profile visitors"  inurl:imchaos
+"you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
+"your default password is" filetype:pdf
+"your password is" filetype:log
+"© 2004 PHPKick.de Version 0.8"
+"© 2008 DevWorx - devworx.somee.com"
+"© 2009 Azimut Technologie"
+"© Sabdrimer CMS"
+"Â© 2005-2006 Powered by eSyndiCat Link Exchange Script"
+''com_noticias''
+''links.asp?CatId''
+''name Kose_Yazilari op viewarticle artid''
+''showad.php?listingid=''
+''webboard question.asp QID''
+'SEO by NuSEO.PHP'
+'apc info' 'apc.php?SCOPE='
+( ext:php ) ( inurl:/wp-content/uploads/AAPL/loaders/ )
+( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject
+( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+("DMZ" | "Public IP" | "Private IP") filetype:xls
+("Fiery WebTools" inurl:index2.html) | "WebTools enable * * observe, *, * * * flow * print jobs"
+("Indexed.By"|"Monitored.By") hAcxFtpScan
+("Skin Design by Amie of Intense")|("Fanfiction Categories" "Featured Stories")|("default2, 3column, Romance, eFiction")
+("This Dragonfly....... installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com
+("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com
+("port_255/home")|(inurl:"home?port=255")
+("port_255/home")|(inurl:"home?port=255?)
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+((inurl:ifgraph "Page generated at") OR ("This page was built using ifgraph"))
+((inurl:ifgraph “Page generated at”) OR (“This page was built using ifgraph”))
+(@gmail.com || @yahoo.com || @hotmail.com) ext:php inurl:compose
+(c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1
+(cam1java)|(cam2java)|(cam3java)|(cam4java)|(cam5java)|(cam6java) -navy.mil -backflip -power.ne.jp
+(intext:"MOBOTIX M1" | intext:"MOBOTIX M10") intext:"Open Menu" Shift-Reload
+(intext:"MOBOTIX M1? | intext:"MOBOTIX M10?) intext:"Open Menu" Shift-Reload
+(intext:"index of /.git") ("parent directory")
+(intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)
+(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co
+(intitle:"Flyspray setup"|"powered by flyspray 0.9.7") -flyspray.rocks.cc
+(intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")
+(intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher – Monitoring Results")
+(intitle:"Please login - Forums
+(intitle:"Please login - Forums powered by UBB.threads")|(inurl:login.php "ubb")
+(intitle:"Please login - Forums powered by WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+(intitle:"Please login – Forums
+(intitle:"Please login – Forums powered by UBB.threads")|(inurl:login.php "ubb")
+(intitle:"Please login – Forums powered by WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")
+(intitle:"SilkyMail by Cyrusoft International, Inc
+(intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:g
+(intitle:"WmSC e-Cart Administration")|(intitle:"WebMyStyle e-Cart Administration")
+(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+(intitle:"WordPress ……. Setup Configuration File")|(inurl:"setup-config.php?step=")
+(intitle:"metaframe XP Login")|(intitle:"metaframe Presentation server Login")
+(intitle:"phpop: login")|(intext:"You have attempted an action that requires you to be authenticated.")|(intitle:"bookmarker: login")
+(intitle:"phpshell" OR intitle:"c99shell" OR intitle:"r57shell" OR intitle:"PHP Shell " OR intitle:"phpRemoteView") `rwx` "uname"
+(intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"
+(intitle:"rymo  Login")|(intext:"Welcome to rymo") -family
+(intitle:"rymo Login")|(intext:"Welcome to rymo") -family
+(intitle:(EyeSpyFX|OptiCamFX) "go to camera")|(inurl:servlet/DetectBrowser)
+(intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
+(intitle:WebStatistica inurl:main.php) | (intitle:"WebSTATISTICA server") -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob
+(intitle:WebStatistica inurl:main.php) | (intitle:”WebSTATISTICA server”) -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob
+(intitle:”PRTG Traffic Grapher” inurl:”allsensors”)|(intitle:”PRTG Traffic Grapher – Monitoring Results”)
+(intitle:”Please login – Forums
+(intitle:”WmSC e-Cart Administration”)|(intitle:”WebMyStyle e-Cart Administration”)
+(intitle:”rymo Login”)|(intext:”Welcome to rymo”) -family
+(inurl:"8080/monitorix" & intext:"Hostname") | inurl:"8080/monitorix-cgi"
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp)
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp) -site:remedy.com -site:mil
+(inurl:"ars/cgi-bin/arweb?O=0? | inurl:arweb.jsp)
+(inurl:"ars/cgi-bin/arweb?O=0? | inurl:arweb.jsp) -site:remedy.com -site:mil
+(inurl:"ars/cgi-bin/arweb?O=0″ | inurl:arweb.jsp) -site:remedy.com -site:mil
+(inurl:"robot.txt" | inurl:"robots.txt" ) intext:disallow filetype:txt
+(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+(inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+(inurl:81/cgi-bin/.cobalt/)  | (intext:"Welcome to the Cobalt RaQ")
+(inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")
+(inurl:webArch/mainFrame.cgi ) | (intitle:"web image monitor" -htm -solutions)
+(inurl:”ars/cgi-bin/arweb?O=0″ | inurl:arweb.jsp) -site:remedy.com -site:mil
+(inurl:”robot.txt” | inurl:”robots.txt” ) intext:disallow filetype:txt
+(site:onion.link | site:onion.cab | site:tor2web.org | site:onion.sh | site:tor2web.fi | site:onion.direct)
+(username=* | username:* |) | ( ((password=* | password:*) | (passwd=* | passwd:*) | (credentials=* | credentials:*)) | ((hash=* | hash:*) | (md5:* | md5=*)) | (inurl:auth | inurl:passwd | inurl:pass) ) filetype:log
+(“Indexed.By”|”Monitored.By”) hAcxFtpScan
+********.php?cid=
+********.php?id=
+********s_in_area.php?area_id=
+****.php?cid=
+****s_in_area.php?area_id=
+***zine/board.php?board=
+*.php?catch=
+*.php?f=
+*.php?go=
+*.php?include=
+*.php?inf=
+*.php?layout=
+*.php?load=
+*.php?loc=
+*.php?locate=
+*.php?mode=
+*.php?naam=
+*.php?name=
+*.php?pg=
+*.php?place=
+*.php?secc=
+*.php?sel=
+*.php?session=&content=
+*/newbb/print.php?forum=*topic_id=*”
+*/newbb_plus/*=”
+*/news/archive.php?op=*year=*month=*”
+*/tsep/include/colorswitch.php?tsep_config[absPath]=*”
+*coppercop/theme.php?THEME_DIR=
+*default.php?bOdy=
+*default.php?body=
+*default.php?page=
+*inc*.php?addr=
+*inc*.php?adresa=
+*inc*.php?bOdy=
+*inc*.php?base_dir=
+*inc*.php?body=
+*inc*.php?c=
+*inc*.php?category=
+*inc*.php?doshow=
+*inc*.php?ev=
+*inc*.php?get=
+*inc*.php?i=
+*inc*.php?inc=
+*inc*.php?incl=
+*inc*.php?include=
+*inc*.php?j=
+*inc*.php?k=
+*inc*.php?ki=
+*inc*.php?left=
+*inc*.php?link=
+*inc*.php?m=
+*inc*.php?menu=
+*inc*.php?modo=
+*inc*.php?open=
+*inc*.php?pg=
+*inc*.php?rub=
+*inc*.php?showpage=
+*inc*.php?siv
+*inc*.php?sivu=
+*inc*.php?start=
+*inc*.php?str=
+*inc*.php?to=
+*inc*.php?type=
+*inc*.php?y=
+*inc/header.php/step_one.php?server_inc=
+*inc/pipe.php?HCL_path=
+*include/new-visitor.inc.php?lvc_include_dir=
+*include/write.php?dir=
+*includes/header.php?systempath=
+*index.php?arquivo=
+*index.php?url=
+*inst/index.php?lng=../../include/main.inc&G_PATH=
+*mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+*pivot/modules/module_db.php?pivot_path=
+*support/mailling/maillist/inc/initdb.php?absolute_path=
+*zentrack/index.php?configFile=
+*zine/board.php?board=
++ View Webcam User Accessing
++"HSTSNR" -"netop.com"
++"Powered by INDEXU" inurl:(browse|top_rated|power
++"Powered by Invision Power Board v2.0.0..2"
++"Powered by Invision Power Board v2.0.0..2?
++"Powered by phpBB 2.0.6..10" -phpbb.com -phpbb.pl
++"Powered by phpBB 2.0.6..10? -phpbb.com -phpbb.pl
++htpasswd +WS_FTP.LOG filetype:log
++intext:"AWSTATS DATA FILE" filetype:txt
++intext:"powered by MyBulletinBoard"
+//copyright goes to https://github.com/BullsEye0/google_dork_list.git
