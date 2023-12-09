@@ -98,7 +98,7 @@ menu_options = {
 def show_menu():
     while True:
         print("Select an option:")
-        print("1. Web Scrapper")
+        print("1. Web Scraper")
         print("2. Domain to IP")
         print("3. Recon")
         print("4. Dns Enumeration")
