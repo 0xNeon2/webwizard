@@ -12,7 +12,7 @@ Tested on : Parrot , Kali
 
 ## Features
 
-- Web Scrapper [using dork]
+- Web Scraper [using dork]
 - Domain to Ip
 - Recon of a Domain
 - DNS enumeration
